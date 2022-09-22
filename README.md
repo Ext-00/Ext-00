@@ -1,2 +1,4 @@
 👋 Hi, I’m @Ext-00
-👀 I’m interested in front-end web development
+
+# MY Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
