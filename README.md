@@ -1,4 +1,3 @@
-# Welcoem to me profile
+# i wonder
 
-Why are you even here?
-theres nothing special here.
+i wonder why are you here.
